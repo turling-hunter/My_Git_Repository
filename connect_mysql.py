@@ -4,6 +4,7 @@
 import pymysql
 
 # test for Git
+# test1
 
 # connect database
 conn = pymysql.connect(host='localhost', user='root', password='root', database='machine_data', charset='utf8')
