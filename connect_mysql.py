@@ -1,3 +1,5 @@
+# test connection mysql by python
+# admin：Turling
 # import pymysql module
 import pymysql
 
