@@ -29,13 +29,9 @@ sql = "CREATE TABLE data_2019_8_27_16_42_21_20ms ("\
       "fuel_all CHAR(10) NOT NULL," \
       "load1939 CHAR(10) NOT NULL," \
       "demand_t CHAR(10) NOT NULL," \
-      "t CHAR(10) NOT NULL,	" \
       "rpm_set CHAR(10) NOT NULL," \
       "rpm_real CHAR(10) NOT NULL," \
       "fuelrate CHAR(10) NOT NULL," \
-      "duty_tor CHAR(10) NOT NULL," \
-      "acc_loose_tor CHAR(10) NOT NULL,	" \
-      "grade_x CHAR(10) NOT NULL," \
       "loserate CHAR(20) NOT NULL" \
       ")ENGINE=innodb DEFAULT CHARSET=utf8;"
 
