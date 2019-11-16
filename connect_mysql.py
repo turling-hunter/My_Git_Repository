@@ -3,6 +3,8 @@
 # import pymysql module
 import pymysql
 
+# test for Git
+
 # connect database
 conn = pymysql.connect(host='localhost', user='root', password='root', database='machine_data', charset='utf8')
 
